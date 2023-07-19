@@ -3,6 +3,7 @@
 - Slides: (soon)
 - Slack Channel for discussion: #psumac-107
   - https://macadmins.slack.com/archives/C05DMRKLJ4A
+  - Join slack: https://www.macadmins.org/
 - Google Docs for Note taking:
   - https://docs.google.com/document/d/1_BLCIhMNKrm65eYYERYJcDDXaAywayoDOmN0o8hEUCc/edit?usp=sharing
 - Session Feedback:
