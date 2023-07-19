@@ -1,4 +1,4 @@
-# Using AutoPkg for Windows Software 2.0 - MacAdmins 2023
+## Using AutoPkg for Windows Software 2.0 - MacAdmins 2023
 
 - Slides: (soon)
 - Slack Channel for discussion:
@@ -9,6 +9,6 @@
   - https://psumac2023.sched.com/event/1MmYY/using-autopkg-for-windows-software-20
 
 
-# Project Links:
+## Project Links:
 
 - jgstew-recipes: https://github.com/jgstew/jgstew-recipes
