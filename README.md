@@ -15,6 +15,8 @@
 ## Project Links:
 
 - jgstew-recipes: https://github.com/jgstew/jgstew-recipes
+- Slack Channel for AutoPkg for Windows Software:
+  - https://macadmins.slack.com/archives/C02G604QVNK
 
 ## Find me:
 
