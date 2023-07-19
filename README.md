@@ -2,7 +2,9 @@
 
 - Slides: (soon)
 - Slack Channel for discussion:
-  - https://macadmins.slack.com/archives/C05DMRKLJ4A 
+  - https://macadmins.slack.com/archives/C05DMRKLJ4A
+- Google Docs for Note taking:
+  - https://docs.google.com/document/d/1_BLCIhMNKrm65eYYERYJcDDXaAywayoDOmN0o8hEUCc/edit?usp=sharing
 - Session Feedback:
   - https://bit.ly/psumac2023-127
 - Sched:
