@@ -15,3 +15,9 @@
 ## Project Links:
 
 - jgstew-recipes: https://github.com/jgstew/jgstew-recipes
+
+## Find me:
+
+- MacAdmins Slack: https://macadmins.slack.com/team/U07A4EWFP
+- Mastodon: https://mastodon.social/@jgstew
+- Twitter: https://twitter.com/jgstew
