@@ -22,6 +22,7 @@
 
 - MacAdmins Slack: https://macadmins.slack.com/team/U07A4EWFP
 - Mastodon: https://mastodon.social/@jgstew
+- Threads: https://www.threads.net/@jgstew
 - Twitter: https://twitter.com/jgstew
 - GitHub: https://github.com/jgstew
 - BigFix Forum: https://forum.bigfix.com/u/jgstew
