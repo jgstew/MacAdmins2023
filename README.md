@@ -24,3 +24,5 @@
 - Mastodon: https://mastodon.social/@jgstew
 - Twitter: https://twitter.com/jgstew
 - GitHub: https://github.com/jgstew
+- BigFix Forum: https://forum.bigfix.com/u/jgstew
+- LinkedIn: https://www.linkedin.com/in/jgstew/
