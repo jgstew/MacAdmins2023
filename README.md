@@ -16,8 +16,14 @@
 
 - jgstew-recipes:
   - https://github.com/jgstew/jgstew-recipes
+- autopkg:
+  - https://github.com/autopkg/autopkg
+- hansen-m-recipes:
+  - https://github.com/autopkg/hansen-m-recipes
 - Slack Channel for AutoPkg for Windows Software: #autopkg-for-windows
   - https://macadmins.slack.com/archives/C02G604QVNK
+- Slack Channel for AutoPkg: #autopkg
+  - https://macadmins.slack.com/archives/C056155B4
 
 ## Find me:
 
