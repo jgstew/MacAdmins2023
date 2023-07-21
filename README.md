@@ -1,6 +1,7 @@
 ## Using AutoPkg for Windows Software 2.0 - MacAdmins 2023
 
-- Slides: (soon)
+- Slides:
+  - https://docs.google.com/presentation/d/1jYWyid-H-chs2YOlHiNcoPlyDAKwBI-H95-3JwiN0QE/edit
 - Slack Channel for discussion: #psumac-107
   - https://macadmins.slack.com/archives/C05DMRKLJ4A
   - Join slack: https://www.macadmins.org/
